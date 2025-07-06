@@ -1,0 +1,7 @@
+
+streamlit
+pytube
+moviepy
+torch
+torchvision
+Pillow
